@@ -1,4 +1,4 @@
-function Edge_image = myDataProc(Edge_image) %将一部分数据除去,区域裁剪
+function Edge_image = myDataProc(Edge_image) 
 %MY Summary of this function goes here
 %   Detailed explanation goes here
 
